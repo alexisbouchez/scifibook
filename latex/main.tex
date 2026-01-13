@@ -5,13 +5,13 @@
 
 \documentclass[12pt, a4paper, oneside]{book}
 
-% --- Encodage et langue française ---
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage[french]{babel}
+% --- Encodage et langue française (XeTeX) ---
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{french}
 
 % --- Typographie française élégante ---
-\usepackage{lmodern}
+\setmainfont{Times New Roman}
 \usepackage{microtype}
 
 % --- Mise en page ---
