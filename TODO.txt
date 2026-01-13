@@ -1,0 +1,73 @@
+================================================================================
+                        L'ANOMALIE DE THULÉ
+                        Premier Jet - Suivi
+================================================================================
+
+OBJECTIF: ~30 000 mots | 24 scènes | 3 actes
+FORMAT: LaTeX (chapitres séparés)
+STYLE: Prose littéraire française, tradition Jules Verne
+
+================================================================================
+                            PROGRESSION
+================================================================================
+
+ACTE 1 - BEGINNING HOOK (~7 500 mots)
+--------------------------------------------------------------------------------
+[X]        Scène 1  : La Découverte        (~1 200 mots)  - Chapitre 1
+[X]        Scène 2  : La Vérification      (~1 000 mots)  - Chapitre 2
+[X]        Scène 3  : Le Signal            (~1 200 mots)  - Chapitre 3
+[X]        Scène 4  : La Preuve            (~1 200 mots)  - Chapitre 4
+[EN COURS] Scène 5  : Le Choix             (~1 500 mots)  - Chapitre 5
+[ ]        Scène 6  : Le Départ            (~1 400 mots)  - Chapitre 6
+
+ACTE 2 - MIDDLE BUILD (~15 300 mots)
+--------------------------------------------------------------------------------
+[ ]        Scène 7  : L'Arrivée            (~1 200 mots)  - Chapitre 7
+[ ]        Scène 8  : Le Silence           (~1 100 mots)  - Chapitre 8
+[ ]        Scène 9  : La Surface           (~1 300 mots)  - Chapitre 9
+[ ]        Scène 10 : L'Accident           (~1 200 mots)  - Chapitre 10
+[ ]        Scène 11 : L'Ouverture [MID]    (~1 400 mots)  - Chapitre 11
+[ ]        Scène 12 : L'Intérieur          (~1 300 mots)  - Chapitre 12
+[ ]        Scène 13 : Les Hologrammes      (~1 400 mots)  - Chapitre 13
+[ ]        Scène 14 : La Fissure           (~1 200 mots)  - Chapitre 14
+[ ]        Scène 15 : Le Centre [AIL]      (~1 500 mots)  - Chapitre 15
+[ ]        Scène 16 : Le Message           (~1 400 mots)  - Chapitre 16
+[ ]        Scène 17 : L'Interface          (~1 200 mots)  - Chapitre 17
+[ ]        Scène 18 : La Connexion         (~1 300 mots)  - Chapitre 18
+
+ACTE 3 - ENDING PAYOFF (~7 500 mots)
+--------------------------------------------------------------------------------
+[ ]        Scène 19 : L'Éveil              (~1 000 mots)  - Chapitre 19
+[ ]        Scène 20 : Le Voyage du Retour  (~1 200 mots)  - Chapitre 20
+[ ]        Scène 21 : Le Dilemme           (~1 300 mots)  - Chapitre 21
+[ ]        Scène 22 : Le Message Final     (~1 400 mots)  - Chapitre 22
+[ ]        Scène 23 : La Vérité [CLIMAX]   (~1 500 mots)  - Chapitre 23
+[ ]        Scène 24 : Les Étoiles [FIN]    (~1 100 mots)  - Chapitre 24
+
+================================================================================
+                            STATISTIQUES
+================================================================================
+
+Mots écrits     : ~4 800 / ~30 000
+Scènes terminées: 4 / 24
+Chapitres       : 4 / 24
+Progression     : 16%
+
+Dernière mise à jour: Session en cours - Chapitres 1-4 terminés
+
+================================================================================
+                         NOTES DE SESSION
+================================================================================
+
+- Style visé: prose vernienne, phrases longues et cadencées ✓
+- Vocabulaire scientifique précis mais accessible ✓
+- Émerveillement devant le cosmos ✓
+- Intériorité d'Élise: précision analytique → doute → sagesse
+
+CHAPITRES RÉDIGÉS:
+- Ch.1: Introduction d'Élise, découverte nocturne, ton établi
+- Ch.2: Marcus Chen introduit, tension de l'attente
+- Ch.3: Kepler-III, image de la sphère, signal des nombres premiers
+- Ch.4: Présentation à l'ESA, éléments inconnus = preuve définitive
+
+================================================================================

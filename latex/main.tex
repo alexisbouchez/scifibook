@@ -1,0 +1,150 @@
+% ============================================================================
+%                         L'ANOMALIE DE THULÉ
+%                    Une novella de science-fiction
+% ============================================================================
+
+\documentclass[12pt, a4paper, oneside]{book}
+
+% --- Encodage et langue française ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+
+% --- Typographie française élégante ---
+\usepackage{lmodern}
+\usepackage{microtype}
+
+% --- Mise en page ---
+\usepackage[
+    top=3cm,
+    bottom=3cm,
+    left=3.5cm,
+    right=3.5cm,
+    headheight=14pt
+]{geometry}
+
+% --- En-têtes et pieds de page ---
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\leftmark}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{#1}}{}}
+
+% --- Chapitres élégants ---
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+    {\normalfont\huge\bfseries\centering}
+    {\chaptertitlename\ \thechapter}
+    {20pt}
+    {\Huge}
+\titlespacing*{\chapter}{0pt}{50pt}{40pt}
+
+% --- Espacement des paragraphes ---
+\setlength{\parindent}{1.5em}
+\setlength{\parskip}{0.5em}
+
+% --- Guillemets français ---
+\usepackage{csquotes}
+\MakeOuterQuote{"}
+
+% --- Épigraphes ---
+\usepackage{epigraph}
+\setlength{\epigraphwidth}{0.75\textwidth}
+\renewcommand{\epigraphflush}{center}
+\renewcommand{\sourceflush}{center}
+
+% --- Pas de numérotation des chapitres dans le texte ---
+\setcounter{secnumdepth}{-1}
+
+% --- Métadonnées ---
+\title{\textbf{L'Anomalie de Thulé}}
+\author{[Auteur]}
+\date{2147}
+
+% ============================================================================
+\begin{document}
+
+% --- Page de titre ---
+\begin{titlepage}
+    \centering
+    \vspace*{3cm}
+
+    {\huge\bfseries L'Anomalie de Thulé\par}
+
+    \vspace{1cm}
+
+    {\Large\itshape Une novella de science-fiction\par}
+
+    \vspace{2cm}
+
+    {\large Dans la tradition de\\[0.5em]
+    Jules Verne $\cdot$ Arthur C. Clarke $\cdot$ Robert Heinlein\par}
+
+    \vfill
+
+    \epigraph{«\,La connaissance véritable s'atteint non pas en trouvant toutes les réponses, mais en acceptant que certaines questions nous dépassent — et que cette humilité est elle-même une forme de sagesse.\,»}{}
+
+    \vfill
+
+    {\large 2147\par}
+\end{titlepage}
+
+% --- Table des matières ---
+\frontmatter
+\tableofcontents
+
+% --- Corps du texte ---
+\mainmatter
+
+% ============================================================================
+%                           ACTE I — L'APPEL
+%                         Beginning Hook
+% ============================================================================
+
+\part{L'Appel}
+
+\include{chapitres/chapitre01}
+\include{chapitres/chapitre02}
+\include{chapitres/chapitre03}
+\include{chapitres/chapitre04}
+\include{chapitres/chapitre05}
+\include{chapitres/chapitre06}
+
+% ============================================================================
+%                          ACTE II — L'ÉPREUVE
+%                           Middle Build
+% ============================================================================
+
+\part{L'Épreuve}
+
+\include{chapitres/chapitre07}
+\include{chapitres/chapitre08}
+\include{chapitres/chapitre09}
+\include{chapitres/chapitre10}
+\include{chapitres/chapitre11}
+\include{chapitres/chapitre12}
+\include{chapitres/chapitre13}
+\include{chapitres/chapitre14}
+\include{chapitres/chapitre15}
+\include{chapitres/chapitre16}
+\include{chapitres/chapitre17}
+\include{chapitres/chapitre18}
+
+% ============================================================================
+%                         ACTE III — LE RETOUR
+%                          Ending Payoff
+% ============================================================================
+
+\part{Le Retour}
+
+\include{chapitres/chapitre19}
+\include{chapitres/chapitre20}
+\include{chapitres/chapitre21}
+\include{chapitres/chapitre22}
+\include{chapitres/chapitre23}
+\include{chapitres/chapitre24}
+
+% ============================================================================
+\end{document}
